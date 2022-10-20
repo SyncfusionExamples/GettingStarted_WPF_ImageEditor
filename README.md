@@ -1,6 +1,6 @@
 # Getting Started WPF ImageEditor
 
-This repository contains sample for how to get started with the [Syncfusion WPF Image Editor](https://help.syncfusion.com/wpf/image-editor/getting-started) control. The image editor control is a very handy tool that is used to edit an image by annotating with text, pen and built-in shapes. It allows you to crop, rotate, and flip an image. The image editor control has a built-in toolbar, which helps in performing editing operations.
+This repository contains sample to get started with the [Syncfusion WPF Image Editor](https://help.syncfusion.com/wpf/image-editor/getting-started) control. The image editor control is a very handy tool that is used to edit an image by annotating with text, pen and built-in shapes. It allows you to crop, rotate, and flip an image. The image editor control has a built-in toolbar, which helps in performing editing operations.
 
 ## Syncfusion controls
 
